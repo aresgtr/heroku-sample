@@ -18,7 +18,6 @@ dbus-python==1.2.16
 dictfier==1.5.1
 distlib==0.3.0
 distro==1.4.0
-distro-info===0.23ubuntu1
 docutils==0.15.2
 ecdsa==0.15
 entrypoints==0.3
